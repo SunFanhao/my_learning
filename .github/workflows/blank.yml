@@ -37,7 +37,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          branch: master
+          branch: main
           publish_dir: ./dist
           github_token: ${{ secrets.GITHUB_TOKEN }}
           user_name: ${{ secrets.MY_USER_NAME }}
