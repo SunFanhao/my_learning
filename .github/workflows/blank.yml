@@ -27,7 +27,7 @@ jobs:
     
       # 打包构建
       - name: Build
-        uses: action/setup-node@master
+        uses: actions/setup-node@v3
         with: 
           node-version: '16.x'
       - run: npm install # 安装依赖
