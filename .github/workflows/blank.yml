@@ -38,7 +38,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           branch: gh-pages # 部署的分支
-          publish_dir: ./dist 
+          publish_dir: ./dist  
           github_token: ${{ secrets.V2 }} 
           user_name: ${{ secrets.MY_USER_NAME }}
           user_email: ${{ secrets.MY_USER_EMAIL }}
