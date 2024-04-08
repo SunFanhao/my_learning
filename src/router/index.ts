@@ -26,6 +26,7 @@ const router = createRouter({
 
 // 路由导航守卫
 router.beforeEach((to, from, next) => {
+    console.log(to,from)
     const store = userStore()
     if(store.token) {
         next()
