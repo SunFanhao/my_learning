@@ -10,7 +10,7 @@ import { userStore } from '../store/user'
 const route: Array<RouteRecordRaw> = [
     {
         path: '/',
-        component: () => import('../components/HelloWorld.vue')
+        component: () => import('../views/index.vue')
     },
     {
         path: '/login',

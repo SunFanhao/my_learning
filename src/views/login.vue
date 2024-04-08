@@ -7,5 +7,5 @@
     </div>
 </template>
 <style lang="less" scoped>
-    @import "../style/login.less";
+    @import "../styles/login.less";
 </style>
