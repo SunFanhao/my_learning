@@ -1,0 +1,1 @@
+import{_ as c}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as e,c as o}from"./index-BTbzFGI4.js";const r={};function t(n,_){return e(),o("div",null," 你好 ")}const f=c(r,[["render",t],["__scopeId","data-v-0bcfc920"]]);export{f as default};

@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o,c}from"./index-DxYFkUEe.js";const r={};function t(n,a){return o(),c("div",null," 你好 ")}const d=e(r,[["render",t],["__scopeId","data-v-13d9bead"]]);export{d as default};

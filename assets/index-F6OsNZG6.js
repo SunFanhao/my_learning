@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as c,c as o}from"./index-BTbzFGI4.js";const r={};function t(n,a){return c(),o("div",null,"首页")}const d=e(r,[["render",t],["__scopeId","data-v-8745dcad"]]);export{d as default};
